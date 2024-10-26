@@ -1,0 +1,7 @@
+.droppable-col{
+     min-height: "600px"!important;
+     width:"410px" !important;
+     background-color: "#f0f0f0" !important;
+     padding: '10px';
+}
+

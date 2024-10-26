@@ -1,0 +1,10 @@
+.card {
+    display: flex;
+    flex-direction: row;
+}
+.search-bar{ 
+    width: 60% !important; 
+}
+.select-input{
+    min-width: 200px;
+}
